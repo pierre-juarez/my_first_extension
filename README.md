@@ -6,6 +6,11 @@ _Creación de una extensión en Chrome, primera clase del Taller Práctico Fulls
 
 [Guía de extensión](https://developer.chrome.com/docs/extensions/mv3/getstarted/)
 
+### Temas tratados
+
+* HMTL: Estructura básica.
+* CSS: Básico y selectores, medidas/unidades relativas (REM).
+* JS: Manipulación del DOM, funciones, arrow functions.
 
 ## Créditos
 
